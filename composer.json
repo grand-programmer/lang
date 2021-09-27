@@ -1,12 +1,12 @@
 {
-    "name": "caouecs/laravel-lang",
+    "name": "grand-programmer/lang",
     "description": "Languages for Laravel",
     "keywords": ["laravel", "languages", "lpm", "lang"],
     "license": "MIT",
     "authors": [
         {
-            "name": "caouecs",
-            "email": "caouecs@caouecs.net"
+            "name": "grand-programmer",
+            "email": "great_programmer@mail.ru"
         }
     ],
     "suggest": {
